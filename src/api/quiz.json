@@ -1,0 +1,90 @@
+{
+   "questions": [
+      {
+         "questionNumber": "1",
+         "questionType": "SingleSelect",
+         "question": "Which AWS service provides infrastructure security optimizations recommendations?",
+         "options": [
+            {
+               "sequence": "1",
+               "value": "AWS Application Programming Interface (API)"
+            },
+            {
+               "sequence": "2",
+               "value": "Reserved Instances"
+            },
+            {
+               "sequence": "3",
+               "value": "WS Trusted Advisor"
+ 		    },
+            {
+               "sequence": "4",
+               "value": "Amazonn EC2 SpotFleet"
+            }
+         ],
+         "answers": [
+            3
+         ],
+         "hints": [
+            {
+               "level": "1",
+               "value": "It provides recommendations that help you follow AWS best practices.",
+               "used": "false"
+            },
+            {
+               "level": "2",
+               "value": "It evaluates your account by using checks.",
+               "used": "false"
+            },
+            {
+               "level": "3",
+               "value": "It identifies ways to optimize your AWS infrastructure, improve security and performance, reduce costs, and monitor service quotas.",
+               "used": "false"
+            }
+         ]
+      },
+      {
+         "questionNumber": "2",
+         "questionType": "SingleSelect",
+         "question": "Which AWS service can be deployed to enhance read performance for application while reading data from NOSql database?",
+         "options": [ 
+            {
+               "sequence": "1",
+               "value": "Amazon Route 53"
+            },
+            {
+               "sequence": "2",
+               "value": "Amazon DynamoDB Accelerator"
+            },
+            {
+               "sequence": "3",
+               "value": "Amazon CloudFront"
+            },
+            {
+               "sequence": "4",
+               "value": "AWS Greengrass"
+            }
+         ],
+         "answers": [
+            1
+         ],
+         "hints": [
+            {
+               "level": "1",
+               "value": "It's a fully managed, highly available, in-memory cache.",
+               "used": "false"
+            },
+            {
+               "level": "2",
+               "value": "It delivers up to a 10x performance improvement",
+               "used": "false"
+            },
+            {
+               "level": "3",
+               "value": "It is fault-tolerant and scalable",
+               "used": "false"
+            }
+         ]
+      }
+   ]
+}

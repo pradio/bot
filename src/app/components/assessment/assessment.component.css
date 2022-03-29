@@ -1,0 +1,33 @@
+.main{
+    margin-top: 85px;
+    width: "100%";
+    margin-left: 20px;
+}
+.heading {
+   font-weight: 800;
+}
+.list{
+    font-weight: 600;
+    margin-top: 10px;
+}
+.start{
+   margin-left: 10px;
+   width: 120px;
+}
+
+.mainDiv{
+    display: flex;
+    flex:1;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.subOne{
+    width: 20%;
+}
+.subTwo{
+    width: 80%; 
+}
+
+.assName{
+    margin-top: 10px;
+}
